@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-23T11:58:46.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="Ihwe9nxVCN311xpSoPC9" version="12.4.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-23T12:02:15.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0" etag="aYd122s7QniWvo5TpMdQ" version="12.4.3" type="github" pages="1">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1653" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -60,10 +60,10 @@
         <mxCell id="yfZWB_72fjTsK2IhJjj6-2268" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;192.168.0.1&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1183.5" y="176.5" width="90" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="yfZWB_72fjTsK2IhJjj6-2278" value="&lt;font color=&quot;#23445d&quot;&gt;External servers&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="yfZWB_72fjTsK2IhJjj6-2278" value="&lt;font color=&quot;#23445d&quot;&gt;Upstairs&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1283.5" y="480" width="143" height="19" as="geometry"/>
         </mxCell>
-        <mxCell id="yfZWB_72fjTsK2IhJjj6-2280" value="&lt;font color=&quot;#23445d&quot;&gt;External servers&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="yfZWB_72fjTsK2IhJjj6-2280" value="&lt;font color=&quot;#23445d&quot;&gt;Downstairs&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1273.5" y="32" width="143" height="19" as="geometry"/>
         </mxCell>
         <mxCell id="yfZWB_72fjTsK2IhJjj6-2281" value="" style="shape=mxgraph.cisco.routers.wireless_router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
@@ -71,6 +71,9 @@
         </mxCell>
         <mxCell id="yfZWB_72fjTsK2IhJjj6-2282" value="&lt;div&gt;&lt;b&gt;&lt;u&gt;192.168.0.100&lt;/u&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1110" y="480" width="100" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="yfZWB_72fjTsK2IhJjj6-2285" value="&lt;font style=&quot;font-size: 14px&quot;&gt;192.168.0.2 - 192.168.0.255 Private Devices&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="156.5" width="200" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
